@@ -36,11 +36,11 @@ export default function AboutUsNew() {
                         </div>
                         <div className="">
                             <p className="font-medium text-lg">
-                                <b>Asha Powertech</b> is a newly launched power solutions company committed to delivering reliable, efficient, and high-performance generator systems for residential, commercial, and industrial needs.
+                                <b className='text-red-600'>Asha Powertech</b> is a professionally managed power solutions company and an Authorised Dealer of <i>Mahindra Powerol</i>  Diesel Generators. We specialize in delivering reliable, efficient, and technologically advanced power backup solutions for commercial, industrial, and institutional applications.
                                 <br /><br />
-                                Though new in establishment, our team brings strong technical expertise and industry knowledge to ensure every customer receives the right power solution. We believe in building long-term relationships by offering honest guidance, quality products, and dependable after-sales support.
+                                Backed by strong industry experience and a customer-centric approach, we offer end-to-end solutions including DG set sales, installation, commissioning, and comprehensive after-sales support. Our association with Mahindra Powerol enables us to provide world-class products that meet stringent quality and performance standards.
                                 <br /><br />
-                                At Asha Powertech, we don't just sell generators—we provide complete power solutions designed to keep your life and business running without interruptions.
+                                We serve a diverse range of sectors such as banking, healthcare, real estate, infrastructure, agriculture, education, hospitality, and manufacturing. At Asha Powertech, we focus on long-term partnerships by ensuring transparency, technical excellence, and timely service.
                             </p>
                             <div className="flex flex-col sm:flex-row gap-6 my-12">
                                 <div className="bg-neutral-100 hover:bg-neutral-200 rounded-lg p-6 min-h-70 w-fit max-w-xl">
@@ -50,7 +50,7 @@ export default function AboutUsNew() {
                                         </div>
                                         <h2 className="text-xl font-semibold text-red-600">Our Mission</h2>
                                     </div>
-                                    <p>To deliver dependable power solutions backed by professional service and customer-first approach.</p>
+                                    <p className=''>To deliver reliable and efficient power solutions by offering world-class Mahindra Powerol products, supported by professional service, technical expertise, and a strong commitment to customer satisfaction.</p>
                                 </div>
                                 <div className="bg-neutral-100 hover:bg-neutral-200 rounded-lg p-6 min-h-70 w-fit max-w-xl ">
                                     <div className='flex flex-col gap-3 mb-4'>
@@ -59,7 +59,7 @@ export default function AboutUsNew() {
                                         </div>
                                         <h2 className="text-xl font-semibold text-red-600">Our Vision</h2>
                                     </div>
-                                    <p>To become a trusted name in the power solutions industry by consistently delivering quality, reliability, and innovation.</p>
+                                    <p className=''>To become a leading and most trusted power solutions provider in our region by setting benchmarks in quality, service excellence, and customer relationships while contributing to sustainable and dependable power infrastructure.</p>
                                 </div>
                             </div>
                         </div>
@@ -100,7 +100,7 @@ export default function AboutUsNew() {
 
                 <div className='flex items-start justify-center'>
                     <img
-                        src="/pexels-pixabay.jpg"
+                        src="/APT-MP.png"
                         alt="Power solutions"
                         className="sticky top-20 aspect-square w-full object-cover rounded-2xl m-4"
                     />

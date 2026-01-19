@@ -20,11 +20,11 @@ export default function Home() {
             muted
             playsInline
             src="/Cloth_02.mp4"
-            className=" object-cover min-h-screen aspect-video absolute top-0 left-0 w-full h-full grayscale "
+            className=" object-cover min-h-screen aspect-video absolute top-0 left-0 w-full h-full hue-rotate-90 "
           />
           <div className="max-w-5xl z-20 text-center px-2 sm:px-4 flex flex-col items-center gap-12 ">
             {useBlur("Reliable Power Solutions You can Trust", {
-              className: " text-neutral-900 text-3xl sm:text-5xl lg:text-7xl font-bold"
+              className: " text-neutral-800 text-3xl sm:text-5xl lg:text-7xl font-bold"
             })}
 
             {/* <ButtonWithIcon
