@@ -24,9 +24,9 @@ export default function Footer() {
                         </p>
                         {/* <hr className='border-t border-neutral-700 my-4'></hr> */}
                         <p className='text-neutral-400 mb-4 '>
-                            Shivganj Gali No. 3,<br />
-                            Kishoreganj Harmu Road, Ranchi, <br />
-                            Jharkhand 834001
+                            C4 1st Floor, Harmu Housing Colony <br />
+                            Near Patel Chowk <br />
+                            Ranchi, Jharkhand - 834001
                         </p>
                     </div>
 

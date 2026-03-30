@@ -25,7 +25,7 @@ export default function Navbar() {
     }
 
     const contactInfo = {
-        address: 'Shivganj Gali No. 3, Kishoreganj Harmu Road, Ranchi, Jharkhand - 834001',
+        address: 'C4 1st Floor, Harmu Housing Colony, Near Patel Chowk, Ranchi, Jharkhand - 834001',
         email: 'ashapowertech2@gmail.com',
         mobile: '+91 88894 60740',
     }
